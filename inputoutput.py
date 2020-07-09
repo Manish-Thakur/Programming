@@ -1,3 +1,5 @@
+#Program to write first program "HelloWorld" and demonstrate the user input/output operation
+
 print("Hello World!")
 print("---------------------------------")
 name=input("Enter your Name: ")
