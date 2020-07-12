@@ -27,3 +27,9 @@ def Main():
 if __name__ == "__main__":
     Main()
     
+
+#Output:
+#-------------------------------#
+Enter the string:good
+original string: good
+reversed string: doog
