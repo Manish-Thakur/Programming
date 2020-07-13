@@ -16,18 +16,18 @@ if __name__ == "__main__":
     Main()
 
 
-#Output:
-#---------------------#
-input: Enter the number= 2
-input: Enter the limit= 10
-Multiplication table of 2 is:
-2X1=2
-2X2=4
-2X3=6
-2X4=8
-2X5=10
-2X6=12
-2X7=14
-2X8=16
-2X9=18
-2X10=20
+# #Output:
+# #---------------------#
+# input: Enter the number= 2
+# input: Enter the limit= 10
+# Multiplication table of 2 is:
+# 2X1=2
+# 2X2=4
+# 2X3=6
+# 2X4=8
+# 2X5=10
+# 2X6=12
+# 2X7=14
+# 2X8=16
+# 2X9=18
+# 2X10=20
