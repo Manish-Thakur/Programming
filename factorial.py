@@ -14,9 +14,9 @@ def Main():
 if __name__ == "__main__":
     Main()
      
-#Output:
+# #Output:
 #------------------#
-Enter the number: 5
-Factorial = 120
+# Enter the number: 5
+# Factorial = 120
 
 
